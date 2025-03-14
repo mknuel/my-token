@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/allureToken.sol": "IERC"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/allureToken.sol": {
+			"keccak256": "0x8a94ed776d6fd94473555e3d1b8d39ea17de84ca7737b4ccc9ce0d810abc2e04",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2b45d85f6b76a05eb11de3436bb1f7647626c488abc001a6e89d25102350d105",
+				"dweb:/ipfs/QmUZCM2gwi2uaDHBmecbgQsqARzsRhj4i5aef1wumYChti"
+			]
+		}
+	},
+	"version": 1
+}
